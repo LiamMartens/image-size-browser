@@ -1,0 +1,3 @@
+[submodule "image-size"]
+	path = image-size
+	url = https://github.com/image-size/image-size.git
